@@ -1,5 +1,5 @@
 # Self Driving Car: Behavioural Cloning
-
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 The goals of this project were the following:
 
 * Generate and augment a behavioural cloning dataset by driving in a simulator.
