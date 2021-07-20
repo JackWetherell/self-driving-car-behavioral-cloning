@@ -9,7 +9,7 @@ The goals of this project were the following:
 * Test, train and validate the model using the simulator driving data.
 * Apply the model in the simulator, recording a video of the completion of one lap of the track.
 
-![Demo](./demo.png)
+![Demo](./demo.gif)
 
 ## Requirements
 
