@@ -33,5 +33,5 @@ To train the model:
 
 To run the trained model:
 1. Download the relevant release of the Udacity simulator for your platform.
-2. Run the driving model: `python drive.py models/model.h5 run1`
-3: Run the simulator.
+2. Run the driving model: `python drive.py models/model.h5 run1`.
+3. Run the simulator.
