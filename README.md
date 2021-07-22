@@ -26,12 +26,12 @@ The goals of this project were the following:
 In addition, this project requires the Term 1 Udacity simulator: https://github.com/udacity/self-driving-car-sim
 
 ## Usage
-To run the trained model:
-1. Download the relevant release of the Udacity simulator for your platform.
-2. Run the driving model: `python drive.py models/model.h5 run1`
-3: Run the simulator.
-
 To train the model:
 1. Use the simulator to drive vehicle in manual mode and record data.
 2. `python preproc.py`
 3. `python model.py`
+
+To run the trained model:
+1. Download the relevant release of the Udacity simulator for your platform.
+2. Run the driving model: `python drive.py models/model.h5 run1`
+3: Run the simulator.
