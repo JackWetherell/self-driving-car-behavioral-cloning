@@ -28,9 +28,10 @@ In addition, this project requires the Term 1 Udacity simulator: https://github.
 ## Usage
 To run the trained model:
 1. Download the relevant release of the Udacity simulator for your platform.
-2. Run the driving model: `python drive.py models/model.h5 run1`.
+2. Run the driving model: `python drive.py models/model.h5 run1`
 3: Run the simulator.
 
 To train the model:
-1. `python preproc.py`
-2. `python model.py`
+1. Use the simulator to drive vehicle in manual mode and record data.
+2. `python preproc.py`
+3. `python model.py`
